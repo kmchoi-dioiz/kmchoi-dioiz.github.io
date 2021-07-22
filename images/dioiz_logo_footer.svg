@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="60"
+   viewBox="0 0 52.916667 15.874999"
+   version="1.1"
+   id="svg4524"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="dioiz_logo_footer.svg"
+   inkscape:export-filename="C:\Project\website\material\images\logo.png"
+   inkscape:export-xdpi="94.685555"
+   inkscape:export-ydpi="94.685555">
+  <defs
+     id="defs4518" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="120.96019"
+     inkscape:cy="98.664237"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1854"
+     inkscape:window-height="891"
+     inkscape:window-x="527"
+     inkscape:window-y="63"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata4521">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-281.12501)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;line-height:2.64583px;font-family:'Fivo Sans';-inkscape-font-specification:'Fivo Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.273681"
+       x="20.09334"
+       y="375.64432"
+       id="text5071"
+       transform="scale(1.2871143,0.77693177)"><tspan
+         sodipodi:role="line"
+         id="tspan5069"
+         x="20.09334"
+         y="375.64432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.2292px;font-family:'Fivo Sans';-inkscape-font-specification:'Fivo Sans';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.273681">DIOIZ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:2.64583px;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266971"
+       x="25.800924"
+       y="297.95044"
+       id="text5075"
+       transform="scale(1.009023,0.99105769)"><tspan
+         sodipodi:role="line"
+         id="tspan5073"
+         x="25.800924"
+         y="297.95044"
+         style="font-size:2.82222px;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.266971">Enhance Your Embedded Systems</tspan></text>
+  </g>
+</svg>
