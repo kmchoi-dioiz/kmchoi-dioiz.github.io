@@ -14,7 +14,7 @@
    version="1.1"
    id="svg1519"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="logo-safertos.svg">
+   sodipodi:docname="logo-openrtos.svg">
   <defs
      id="defs1513" />
   <sodipodi:namedview
@@ -34,8 +34,8 @@
      units="px"
      inkscape:window-width="1766"
      inkscape:window-height="1032"
-     inkscape:window-x="136"
-     inkscape:window-y="0"
+     inkscape:window-x="397"
+     inkscape:window-y="12"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata1516">
@@ -54,12 +54,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#ffffff;stroke:#000000;stroke-width:0.310143"
-       id="rect855"
-       width="158.43985"
-       height="105.52319"
-       x="0.1550715"
-       y="0.15507179" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.26515"
+       id="rect2347"
+       width="158.48485"
+       height="105.56818"
+       x="0.13257486"
+       y="0.13257486" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.785504"
        id="rect2096"
@@ -78,9 +78,11 @@
          id="tspan2098"
          x="6.8905911"
          y="51.570431"
-         style="font-size:17.8876px;stroke-width:0.283158">SAFE<tspan
-   style="font-weight:bold;font-size:17.8876px;stroke-width:0.283158"
-   id="tspan2146">RTOS</tspan></tspan></text>
+         style="font-size:17.8876px;stroke-width:0.283158"><tspan
+           style="font-weight:bold;font-size:17.8876px;stroke-width:0.283158"
+           id="tspan2146"><tspan
+   style="font-weight:normal"
+   id="tspan855">OPEN</tspan>RTOS</tspan></tspan></text>
     <image
        width="40.770214"
        height="30.444088"
